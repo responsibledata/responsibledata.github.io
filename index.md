@@ -41,18 +41,34 @@ The following schedule is tentative and will be confirmed closer to the workshop
 |------------:|:-------------------------|:-----------------------------------------------------------------------------------|
 | 8:30-8:45   | Opening Remarks          | [Dr. Candice Schumann](https://candiceschumann.com/)                               |
 | 8:45-9:15   | Keynote                  | [Dr. Sara Beery](https://beerys.github.io/)                                        |
-| 9:15-9:40   | Rapid Fire Talks 1       | TBD                                                                                |
-| 9:45-10:15  | Poster Session 1         | TBD                                                                                |
+| 9:15-9:40   | Rapid Fire Talks 1       | See Extended Abstracts [Session 1](#papers_1)                                                                                 |
+| 9:45-10:15  | Poster Session 1         | See Extended Abstracts [Session 1](#papers_1)                                                                                |
 | 10:15-10:45 | Coffee Break             |                                                                                    |
 | 10:45-11:45 | Round Table Discussion 1 |                                                                                    |
 | 11:45-13:00 | Lunch Break              |                                                                                    |
 | 13:00-13:30 | Keynote                  | [Dr. William Agnew](https://sites.google.com/cs.washington.edu/william-agnew/home) |
 | 13:30-14:15 | Round Table Discussion 2 |                                                                                    |
-| 14:15-14:40 | Rapid Fire Talks 2       | TBD                                                                                |
-| 14:45-15:15 | Poster Session 2         | TBD                                                                                |
+| 14:15-14:40 | Rapid Fire Talks 2       | See Extended Abstracts [Session 2](#papers_2)                                                                                |
+| 14:45-15:15 | Poster Session 2         | See Extended Abstracts [Session 2](#papers_2)                                                                                |
 | 15:15-15:45 | Coffee Break             |                                                                                    |
-| 15:45-16:45 | Panel Discussion         | **Moderator**: TBD <br><br>**Panelists**: <br>[Nati Catalan](https://www.linkedin.com/in/naticatalan/),<br>[Dr. Sven Cattell](https://www.linkedin.com/in/sven-cattell-5748a311/),<br>[Dr. Morgan Klaus Scheuerman](https://www.morgan-klaus.com/),<br>[Emily McReynolds](https://www.linkedin.com/in/emilymcreynolds/)                                                                                   |
+| 15:45-16:45 | Panel Discussion         | **Moderator**: [Jerone Andrews](https://ai.sony/people/Jerone-Andrews/) <br><br>**Panelists**: <br>[Nati Catalan](https://www.linkedin.com/in/naticatalan/),<br>[Dr. Sven Cattell](https://www.linkedin.com/in/sven-cattell-5748a311/),<br>[Dr. Morgan Klaus Scheuerman](https://www.morgan-klaus.com/),<br>[Emily McReynolds](https://www.linkedin.com/in/emilymcreynolds/)                                                                                   |
 | 16:45-17:15 | Closing Remarks          | [Dr. Caner Hazirbas](https://hazirbas.com/)                                        |
+
+
+---
+
+## **Extended Abstracts** {#accepted_papers}
+
+### **Session 1** {#papers_1}
+ - **Is ImageNet Pre-training Fair in Image Recognition?** Ryosuke Yamada, Ryo Takahashi, Go Ohtani, Erika Mori, Hirokatsu Kataoka, Yoshimitsu Aoki 
+ - **The role of image anonymization in balancing fairness and privacy in data collection: analysis of ethical and technical challenges** Luca Piano, Pietro Basci, Fabrizio Lamberti, Lia Morra
+ - **Ensuring AI Data Access Control in RDBMD: A Comprehensive Review** William kandolo
+
+### **Session 2** {#papers_2}
+ - **Data Sharing Policies and Considerations Must Influence Machine Learning Research Directions in Ecological Applications** Neha Hulkund, Millie Chapman, Ruth Oliver, Sara Beery
+ - **DETER: Detecting Edited Regions for Deterring Generative Manipulations** Sai Wang\*, Ye Zhu\*, Ruoyu Wang, Amaya Dharmasiri, Olga Russakovsky, Yu Wu
+ - **AI-EDI-SPACE: A Co-designed Dataset for Evaluating the Quality of Public Spaces** Hugo Berard, Shreeyash Gowaikar
+ - **Machines are Learning, African Communities are Training** Wilhelmina Ndapewa Onyothi Nekoto, Sanjana Paul, Olanrewaju Samuel, Kasia Chmielinski, Camille Minns 
 
 ---
 
