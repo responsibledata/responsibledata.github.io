@@ -60,7 +60,7 @@ The following schedule is tentative and will be confirmed closer to the workshop
 ## **Extended Abstracts** {#accepted_papers}
 
 ### **Session 1** {#papers_1}
- - **Is ImageNet Pre-training Fair in Image Recognition?** Ryosuke Yamada, Ryo Takahashi, Go Ohtani, Erika Mori, Hirokatsu Kataoka, Yoshimitsu Aoki 
+ - **Is ImageNet Pre-training Fair in Image Recognition?** Ryosuke Yamada, Ryo Takahashi, Go Ohtani, Erika Mori, Hirokatsu Kataoka, Yoshimitsu Aoki
  - **The role of image anonymization in balancing fairness and privacy in data collection: analysis of ethical and technical challenges** Luca Piano, Pietro Basci, Fabrizio Lamberti, Lia Morra
  - **Ensuring AI Data Access Control in RDBMD: A Comprehensive Review** William kandolo
 
@@ -68,7 +68,7 @@ The following schedule is tentative and will be confirmed closer to the workshop
  - **Data Sharing Policies and Considerations Must Influence Machine Learning Research Directions in Ecological Applications** Neha Hulkund, Millie Chapman, Ruth Oliver, Sara Beery
  - **DETER: Detecting Edited Regions for Deterring Generative Manipulations** Sai Wang\*, Ye Zhu\*, Ruoyu Wang, Amaya Dharmasiri, Olga Russakovsky, Yu Wu
  - **AI-EDI-SPACE: A Co-designed Dataset for Evaluating the Quality of Public Spaces** Hugo Berard, Shreeyash Gowaikar
- - **Machines are Learning, African Communities are Training** Wilhelmina Ndapewa Onyothi Nekoto, Sanjana Paul, Olanrewaju Samuel, Kasia Chmielinski, Camille Minns 
+ - **Machines are Learning, African Communities are Training** Wilhelmina Ndapewa Onyothi Nekoto, Sanjana Paul, Olanrewaju Samuel, Kasia Chmielinski, Camille Minns
 
 ---
 
@@ -101,10 +101,10 @@ is the Homer A. Burnell Career Development Professor in the MIT Faculty of Artif
 ## **Panelists** {#panelists}
 <div class="container">
 <figure>
-    <a href="https://www.linkedin.com/in/naticatalan/">
-    <img class="img-author" src="assets/imgs/authors/cvpr2024/NatiCatalan.jpeg" alt="Nati Catalan"/></a>
-    <b><br><a href="https://www.linkedin.com/in/naticatalan/">Nati Catalan (He/Him)</a>
-    <br>Co-Founder<br>Tasq.ai</b>
+    <a href="https://www.linkedin.com/in/noa-franko-ohana/">
+    <img class="img-author" src="assets/imgs/authors/cvpr2024/NoaFrankoOhana.png" alt="Noa Franko-Ohana"/></a>
+    <b><br><a href="https://www.linkedin.com/in/noa-franko-ohana/">Noa Franko-Ohana</a>
+    <br>VP Partnerships<br>Tasq.ai</b>
 </figure>
 
 <figure>
@@ -130,9 +130,8 @@ is the Homer A. Burnell Career Development Professor in the MIT Faculty of Artif
 </div>
 
 <div class="bio-text">
-<a href="https://www.linkedin.com/in/naticatalan/"><b>Nati Catalan</b></a>
-is a seasoned professional with a background in Computer Science and Mathematics, boasting two decades of leadership in startups and enterprises. Over the past 9 years, Nati has passionately dedicated efforts to bridging the gap between artificial intelligence and human intuition. As the Co-Founder of <a href="https://www.tasq.ai/">Tasq.ai</a>, Nati champions the cause of incorporating humans in machine learning solutions.
-Nati is a firm advocate for the essential role of human guidance in responsible AI development, whose challenges he solves with global, diverse, and responsible human input on an unprecedented scale. This approach has positioned <a href="https://www.tasq.ai/">Tasq.ai</a> a unique platform for Data Science and ML teams, especially those pursuing Responsible AI in an effortless and scalable way.
+<a href="https://www.linkedin.com/in/noa-franko-ohana/"><b>Noa Franko-Ohana</b></a>
+is a seasoned technology professional with a background in R&D, Product Management and innovation boasting 2 decades of leadership in startups and enterprises such as IBM, Microsoft, Seagate and more.  In her current role as VP Partnerships at <a href="https://www.tasq.ai/">Tasq.ai</a>, Noa has passionately dedicated efforts to bridging the gap between artificial intelligence and human intuition. At <a href="https://www.tasq.ai/">Tasq.ai</a>, Noa leads the developments of generative AI evaluation solutions with focusing on ethical solutions, utilizing global, diverse human guidance for evaluating and training ML models. Noa's experience at Seagate, IBM and Microsoft further solidified her commitment to responsible AI, where she led programs that supported startup engagement, ethical technology advocacy, and the development of AI solutions that benefit society.
 
 <br><br>
 <a href="https://www.linkedin.com/in/sven-cattell-5748a311/"><b>Sven Cattell</b></a> coming soon.
@@ -240,4 +239,3 @@ Authors are invited to submit relevent research (including work in progress, nov
 The extended abstract can be at most 4 pages long in [CVPR format](https://github.com/cvpr-org/author-kit/releases), not including references. Authors may supply supplementary material, however, reviewers will not be required to read this material. Reviews will be double blind. The submission deadline is March 31, 2024.
 
 Submit your extended abstracts through [OpenReview](https://openreview.net/group?id=thecvf.com/CVPR/2024/Workshop/Responsible_Data).
-
