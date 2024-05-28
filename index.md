@@ -110,7 +110,7 @@ is the Homer A. Burnell Career Development Professor in the MIT Faculty of Artif
 <figure>
     <a href="https://www.linkedin.com/in/sven-cattell-5748a311/">
     <img class="img-author" src="assets/imgs/authors/cvpr2024/SvenCattell.jpeg" alt="Sven Cattell"/></a>
-    <b><br><a href="https://www.linkedin.com/in/sven-cattell-5748a311/">Sven Cattell</a>
+    <b><br><a href="https://www.linkedin.com/in/sven-cattell-5748a311/">Sven Cattell (He/Him)</a>
     <br>Founder of AI Village<br>nbhd.ai</b>
 </figure>
 
@@ -124,7 +124,7 @@ is the Homer A. Burnell Career Development Professor in the MIT Faculty of Artif
 <figure>
     <a href="https://www.linkedin.com/in/emilymcreynolds/">
     <img class="img-author" src="assets/imgs/authors/cvpr2024/EmilyMcReynolds.jpeg" alt="Emily McReynolds"/></a>
-    <b><br><a href="https://www.linkedin.com/in/emilymcreynolds/">Emily McReynolds</a>
+    <b><br><a href="https://www.linkedin.com/in/emilymcreynolds/">Emily McReynolds (She/Her)</a>
     <br>Lead AI Strategist<br>Adobe</b>
 </figure>
 </div>
@@ -134,7 +134,8 @@ is the Homer A. Burnell Career Development Professor in the MIT Faculty of Artif
 is a seasoned technology professional with a background in R&D, Product Management and innovation boasting 2 decades of leadership in startups and enterprises such as IBM, Microsoft, Seagate and more.  In her current role as VP Partnerships at <a href="https://www.tasq.ai/">Tasq.ai</a>, Noa has passionately dedicated efforts to bridging the gap between artificial intelligence and human intuition. At <a href="https://www.tasq.ai/">Tasq.ai</a>, Noa leads the developments of generative AI evaluation solutions with focusing on ethical solutions, utilizing global, diverse human guidance for evaluating and training ML models. Noa's experience at Seagate, IBM and Microsoft further solidified her commitment to responsible AI, where she led programs that supported startup engagement, ethical technology advocacy, and the development of AI solutions that benefit society.
 
 <br><br>
-<a href="https://www.linkedin.com/in/sven-cattell-5748a311/"><b>Sven Cattell</b></a> coming soon.
+<a href="https://www.linkedin.com/in/sven-cattell-5748a311/"><b>Sven Cattell</b></a>
+founded the AI Village in 2018 and has been running it ever since. He was the principal organizer of AIV’s Generative Red Team at DEFCON 31. Sven is also the founder of nbhd.ai, a startup focused on the security and integrity of datasets and the AI they build. He was previously a senior data scientist at Elastic where he built the malware model training pipeline. He has a PhD in Algebraic Topology, and a postdoc in geometric machine learning where he focused on anomaly and novelty detection.
 
 <br><br>
 <a href="https://www.morgan-klaus.com/"><b>Morgan Klaus Scheuerman</b></a> coming soon.
