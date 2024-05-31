@@ -138,7 +138,7 @@ is a seasoned technology professional with a background in R&D, Product Manageme
 founded the AI Village in 2018 and has been running it ever since. He was the principal organizer of AIV’s Generative Red Team at DEFCON 31. Sven is also the founder of nbhd.ai, a startup focused on the security and integrity of datasets and the AI they build. He was previously a senior data scientist at Elastic where he built the malware model training pipeline. He has a PhD in Algebraic Topology, and a postdoc in geometric machine learning where he focused on anomaly and novelty detection.
 
 <br><br>
-<a href="https://www.morgan-klaus.com/"><b>Morgan Klaus Scheuerman</b></a> coming soon.
+<a href="https://www.morgan-klaus.com/"><b>Morgan Klaus Scheuerman</b></a> is a research scientist on Sony AI's AI Ethics team and a visiting scholar in Information Science at University of Colorado Boulder. He received his PhD from University of Colorado Boulder, where he was a Microsoft PhD Research Fellow. Morgan broadly focuses on mitigating technical harms, particularly in the context of AI development and deployment. Much of his work has examined how computer vision systems embed specific values that disempower historically marginalized groups. He publishes at top-tier research venues like CSCW, FAccT, CHI, and Big Data & Society. His work has received multiple best paper awards, honorable mentions, and diversity and inclusion awards.
 
 <br><br>
 <a href="https://www.linkedin.com/in/emilymcreynolds/"><b>Emily McReynolds (She/Her)</b></a>
