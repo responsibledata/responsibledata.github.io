@@ -46,7 +46,7 @@ The following schedule is tentative and will be confirmed closer to the workshop
 | 10:15-10:45 | Coffee Break             |                                                                                    |
 | 10:45-11:45 | Round Table Discussion 1 |                                                                                    |
 | 11:45-13:00 | Lunch Break              |                                                                                    |
-| 13:00-13:30 | Keynote                  | Mapping the Computer Vision Surveillance and Weapons Pipeline [Dr. William Agnew](https://sites.google.com/cs.washington.edu/william-agnew/home) |
+| 13:00-13:30 | Keynote                  | _Mapping the Computer Vision Surveillance and Weapons Pipeline_ [Dr. William Agnew](https://sites.google.com/cs.washington.edu/william-agnew/home) |
 | 13:30-14:15 | Round Table Discussion 2 |                                                                                    |
 | 14:15-14:40 | Rapid Fire Talks 2       | See Extended Abstracts [Session 2](#papers_2)                                                                                |
 | 14:45-15:15 | Poster Session 2         | See Extended Abstracts [Session 2](#papers_2)                                                                                |
