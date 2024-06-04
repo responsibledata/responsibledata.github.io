@@ -40,13 +40,13 @@ The following schedule is tentative and will be confirmed closer to the workshop
 |   **Time**  |         **Topic**        |                             **Speaker(s)/Presenter(s)**                            |
 |------------:|:-------------------------|:-----------------------------------------------------------------------------------|
 | 8:30-8:45   | Opening Remarks          | [Dr. Candice Schumann](https://candiceschumann.com/)                               |
-| 8:45-9:15   | Keynote                  | [Dr. Sara Beery](https://beerys.github.io/)                                        |
+| 8:45-9:15   | Keynote                  | _Benchmarking models in a changing world: geospatial and temporal distribution shifts, diverse end users with conflicting priorities, and heterogeneously sampled data across modalities_ [Dr. Sara Beery](https://beerys.github.io/)                                        |
 | 9:15-9:40   | Rapid Fire Talks 1       | See Extended Abstracts [Session 1](#papers_1)                                                                                 |
 | 9:45-10:15  | Poster Session 1         | See Extended Abstracts [Session 1](#papers_1)                                                                                |
 | 10:15-10:45 | Coffee Break             |                                                                                    |
 | 10:45-11:45 | Round Table Discussion 1 |                                                                                    |
 | 11:45-13:00 | Lunch Break              |                                                                                    |
-| 13:00-13:30 | Keynote                  | [Dr. William Agnew](https://sites.google.com/cs.washington.edu/william-agnew/home) |
+| 13:00-13:30 | Keynote                  | Mapping the Computer Vision Surveillance and Weapons Pipeline [Dr. William Agnew](https://sites.google.com/cs.washington.edu/william-agnew/home) |
 | 13:30-14:15 | Round Table Discussion 2 |                                                                                    |
 | 14:15-14:40 | Rapid Fire Talks 2       | See Extended Abstracts [Session 2](#papers_2)                                                                                |
 | 14:45-15:15 | Poster Session 2         | See Extended Abstracts [Session 2](#papers_2)                                                                                |
@@ -83,7 +83,7 @@ The following schedule is tentative and will be confirmed closer to the workshop
     <figure>
         <a href="https://sites.google.com/cs.washington.edu/william-agnew/home">
         <img class="img-author" src="assets/imgs/authors/cvpr2024/WilliamAgnew.jpeg" alt="William Agnew"/></a>
-        <b><br><a href="https://sites.google.com/cs.washington.edu/william-agnew/home">William Agnew</a>
+        <b><br><a href="https://sites.google.com/cs.washington.edu/william-agnew/home">William Agnew (He/They)</a>
         <br>CBI Postdoc Fellow<br>CMU</b>
     </figure>
 </div>
@@ -93,7 +93,7 @@ The following schedule is tentative and will be confirmed closer to the workshop
 is the Homer A. Burnell Career Development Professor in the MIT Faculty of Artificial Intelligence and Decision-Making. She was previously a visiting researcher at Google, working on large-scale urban forest monitoring as part of the Auto Arborist project. She received her PhD in Computing and Mathematical Sciences at Caltech in 2022, where she was advised by Pietro Perona and awarded the Amori Doctoral Prize for her thesis. Her research focuses on building computer vision methods that enable global-scale environmental and biodiversity monitoring across data modalities, tackling real-world challenges including geospatial and temporal domain shift, learning from imperfect data, fine-grained categories, and long-tailed distributions. She partners with industry, nongovernmental organizations, and government agencies to deploy her methods in the wild worldwide. She works toward increasing the diversity and accessibility of academic research in artificial intelligence through interdisciplinary capacity building and education, and has founded the AI for Conservation slack community, serves as the Biodiversity Community Lead for Climate Change AI, and founded and directs the Summer Workshop on Computer Vision Methods for Ecology.
 
 <br><br>
-<a href="https://sites.google.com/cs.washington.edu/william-agnew/home"><b>Dr. William Agnew</b></a> coming soon.
+<a href="https://sites.google.com/cs.washington.edu/william-agnew/home"><b>Dr. William Agnew</b></a> is a CBI postdoc fellow at CMU. William received his Ph.D. from University of Washington with Sidd Srinivasa, where he worked on AI ethics, critical AI, and robotics. William also helped found Queer in AI. William is interested in developing and sharing tools and ideas that go beyond participatory design and allow marginalized individuals and communities to own and meaningfully control their data and models derived from that data. Building on ideas from usable security/privacy, usage licenses, and indigenous data sovereignty, William wants to contribute to data and AI futures where individuals and communities know where their data is and can remove, add, or change their data in different datasets.
 
 </div>
 
